@@ -1,0 +1,45 @@
+.container-fluid-1{
+    background-image: url('./aessects/Rectangle 1.png');
+    height: 800px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.hero{
+    background-color: aqua;
+}
+.hero-sec{
+    height: 700px;
+    width: 60%;
+}
+.hero-sec button{
+    background-color: #E62845;
+    color: white;
+    border: none;
+    padding: 5px;
+
+}
+.container-fluid{
+    background-color: white;
+    color: black;
+    height: 100vh;
+    width: 100%;
+}
+.box-1{
+    height: 300px;
+    width: 300px;
+   
+}
+.btn{
+    background-color: #E62845;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 3px 50px;
+}
+hr{
+    background-color: none;
+    border: none;
+}
