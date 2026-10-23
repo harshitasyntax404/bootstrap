@@ -7,9 +7,8 @@
     background-position: center;
     
 }
-.hero{
-    background-color: aqua;
-}
+
+
 .hero-sec{
     height: 700px;
     width: 60%;
@@ -30,7 +29,9 @@
 .box-1{
     height: 300px;
     width: 300px;
-   
+    background-color: #fde5e9;
+    border-radius: 15px;
+    
 }
 .btn{
     background-color: #E62845;
@@ -42,4 +43,15 @@
 hr{
     background-color: none;
     border: none;
+}
+.container-fluid-2{
+    background-color: #E62845;
+    color: white;
+    height: 500px;
+}
+.container-2{
+    
+    width: 77%;
+    margin-top: 30px;
+    
 }
