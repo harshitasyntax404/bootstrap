@@ -7,7 +7,10 @@
     background-position: center;
     
 }
-
+body{
+    background-color: white;
+    color: black;
+}
 
 .hero-sec{
     height: 700px;
@@ -20,12 +23,7 @@
     padding: 5px;
 
 }
-.container-fluid{
-    background-color: white;
-    color: black;
-    height: 100vh;
-    width: 100%;
-}
+
 .box-1{
     height: 300px;
     width: 300px;
@@ -54,4 +52,7 @@ hr{
     width: 77%;
     margin-top: 30px;
     
+}
+.container-fluid{
+    width: 90%;
 }
