@@ -37,16 +37,13 @@ body{
     border: none;
     border-radius: 5px;
     padding: 3px 50px;
+    
 }
 hr{
     background-color: none;
     border: none;
 }
-.container-fluid-2{
-    background-color: #E62845;
-    color: white;
-    height: 500px;
-}
+
 .container-2{
     
     width: 77%;
