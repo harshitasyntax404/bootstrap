@@ -1,0 +1,55 @@
+.container-fluid-1{
+    background-image: url('./assets/Rectangle 1.png');
+    height: 800px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+body{
+    background-color: white;
+    color: black;
+}
+
+.hero-sec{
+    height: 700px;
+    width: 60%;
+}
+.hero-sec button{
+    background-color: #E62845;
+    color: white;
+    border: none;
+    padding: 5px;
+
+}
+
+.box-1{
+    height: 300px;
+    width: 300px;
+    background-color: #fde5e9;
+    border-radius: 15px;
+    
+}
+.btn{
+    background-color: #E62845;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 3px 50px;
+    
+}
+hr{
+    background-color: none;
+    border: none;
+}
+
+.container-2{
+    
+    width: 77%;
+    margin-top: 30px;
+    
+}
+.container-fluid{
+    width: 90%;
+}
