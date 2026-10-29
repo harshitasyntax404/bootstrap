@@ -1,0 +1,47 @@
+body{
+    background-color: white;
+    color: #3A2626;
+}
+a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: #3A2626;
+    font-weight: 600;
+}
+.container{
+    width: 80%;
+    background-color: rgb(252, 229, 200);
+}
+.icon{
+    border: 2px solid #EFAF30;
+    padding: 3px 10px;
+    margin-right: 10px;
+    color: #3A2626;
+}
+.btn{
+   color: #3A2626;
+   background-color: #EFAF30;
+   font-weight: 600;
+}
+.hero-btn{
+    border: 2px solid #EFAF30;
+    font-weight: 600;
+    padding: 8px 25px;
+}
+.food-box{
+    height: 310px;
+    width: 290px;
+}
+.pasta{
+    width: 200px;
+}
+.burger{
+    width: 150px;
+}
+.Shawarma{
+    width: 150px;
+}
+.frenchfires{
+    width: 210px;
+    margin-top: 12px;
+}
